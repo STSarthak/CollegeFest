@@ -1,0 +1,197 @@
+                    <div class="col-12 col-md-6 single-blog-content">
+                        <div class="blog-content">
+                            <figure class="featured-image">
+                                <a href="#"> <img src="images/blog-image-2.jpg" alt="fesival+celebration"> </a>
+                            </figure><!-- featured-image -->
+
+                            <div class="box-link-date">
+                                <a href="">TREASURE HUNT</a>
+                            </div><!-- box-link-date -->
+
+                            
+<div class="entry-content">
+                                <div class="entry-description">
+                                    <p><h2><u><i>SKILLS REQUIRED</i></u></h2>The participants should have good thinking capability and they should be quick enough to figure out the clues given in form of IT riddles.<br><br><br><h2><u><i>General Rules</h2></u></i><ol><li>Registration open to any college student enrolled in undergraduate or graduate level course.</li><li>Participants have to present college id-proof for registration.</li><li>On the spot event registration till fixed time.</li><li>Two participants per team are allowed.</li><li>All teams have to nominal registration fee for registration.</li><li>There will be three rounds in total.</li><li>Rules for each round will be shared before the round starts.</li><li>Teams have to keep the clues with them until the game finish.</li><li>Each qualified team should play the whole game.</li><li>Team cannot quit the game in between the rounds.</li><li>Members of the team should not get separated and the team members should remain together throughout the game in JIMS campus.</li><li>Decision taken by the judges will be final and binding.</li><li>Total time for the event would be 2 hrs.</li><li>Each team would be given a colour band for identification throughout the game.</li></p>
+                                </div><!-- entry-description -->
+								
+								
+                                <div class="entry-header">
+                                    <h2>Coordinators</h2>
+                                </div><!-- entry-header -->
+
+                                <div class="entry-meta">
+                                    <span class="author-name"><a href="#">By James Williams</a></span>
+                                    <span class="space">|</span>
+                                    <span class="comments-count"><a href="#">3 comments</a></span>
+                                </div><!-- entry-meta -->
+                            </div><!-- entry-content -->
+                        </div>
+                    </div><!-- col-6 -->
+
+                    <div class="col-12 col-md-6 single-blog-content">
+                        <div class="blog-content">
+                            <figure class="featured-image">
+                                <a href="#"> <img src="images/blog-image-3.jpg" alt="fesival+celebration"> </a>
+                            </figure><!-- featured-image -->
+
+                            <div class="box-link-date">
+                                <a href="">CODE Breaker</a>
+                            </div><!-- box-link-date -->
+
+                            <div class="entry-content">
+
+                                <div class="entry-description">
+                                    <p><h2><u><i>SKILLS REQUIRED</i></u></h2>Participants should have a thorough knowledge and understanding of the concepts and should possess an insight to write the code in either C/ C++/Java. The algorithm for the code snippet would be provided by the coordinators. The participants also get the opportunity to showcase their brilliance by understanding the algorithm. Each algorithm will be tested based on the critical test data. The students would be judged on the basis of their coding skills.<h4>Event Specification:</h4><ol><li>Individual Event</li><li>Consists of two rounds</li><li>The Judge’s decision will be final</li><li>The languages used for round 1 is C /HTML</li></ol><br><h4>Round 1: (Total Time required: 10 Minutes)</h4><ol><li>A simple code with syntax error will be given on paper.</li><li>Participants have to correct the errors on paper and type the code with MONITOR SWITCHED OFF.</li><li>Ten minutes will be given to type and correct the code.</li><li>Based on the results of first round the participants will be selected for second round.</li><br><h4>Round 2: (Total Time required: 20 Minutes)</h4><ol><li>A worksheet will be provided to solve the cryptographic message</li><li>Twenty minutes will be given to each participant.</li><li>Winners will be announced based on the correct results of the second round.</li></ol><h6>In case of TIE:</h6><br>TIE breaking problem statement will be given and time will be monitored. Candidate who is able to solve the problem first will be announced as the winner. Maximum time limit is 10 mins.<br><address>Example: Transposition\ Polyalphanumeric Ciphers Input given: NOITITEPMOC CIHPARGOTPYRC A SI SIHT Output Given: This is a cryptographic competition Software required: C Compiler and Browser</address></p>
+                                </div><!-- entry-description -->
+								<div class="entry-header">
+                                  <h2>Coordinators</h2>
+                                </div><!-- entry-header -->
+
+                                <div class="entry-meta">
+                                    <span class="author-name"><a>Name1</a></span>
+                                    <span class="space">|</span>
+                                    <span class="comments-count"><a>Name2</a></span>
+                                </div><!-- entry-meta -->
+                            </div><!-- entry-content -->
+                        </div>
+                    </div><!-- col-6 -->
+
+                    <div class="col-12 col-md-6 single-blog-content">
+                        <div class="blog-content">
+                            <figure class="featured-image">
+                                <a href="#"> <img src="images/blog-image-4.jpg" alt="fesival+celebration"> </a>
+                            </figure><!-- featured-image -->
+
+                            <div class="box-link-date">
+                                <a href="">MYSTERY ROOM</a>
+                            </div><!-- box-link-date -->
+
+                            <div class="entry-content">
+                                
+
+                                <div class="entry-description">
+                                    <p><h2><u><i>General Rules</h2></u></i><h4>Team Size: 2 Members per team</h4><h4>Time Limit: 30 min per round</h4><h4>Round -I: Elimination Round</h4><br>In this round the teams are required to solve the complex visual riddles & puzzles in scheduled time span with two visual games to crack and qualify for the mystery room round. Only 3 teams will be selected from all appearing for the next round.<br><h4>Round –II: Mystery Room Escape</h4>The sole motive of this round is to get yourself out of a theme-based room before time kicks you. The team will be locked in a thrill space having exactly 30 minutes to use logic, solve puzzles, find hint, and prove the power of team work to conclude a mission. To escape the room, you need to crack the codes, solve puzzles and unravel the mystery. The answers to the clues, riddles, puzzles and mysteries are all in the room. You need not be a genius but smart enough to hit the bulls eye! Pay attention to every detail and leave no stone unturned!<br><address>Bring along your inner detective!</address></p>
+                                </div><!-- entry-description -->
+								
+								<div class="entry-header">
+                                  <h2>Coordinators</h2>
+                                </div><!-- entry-header -->
+
+                                <div class="entry-meta">
+                                    <span class="author-name"><a>Name1</a></span>
+                                    <span class="space">|</span>
+                                    <span class="comments-count"><a>Name2</a></span>
+                                </div><!-- entry-meta -->
+                            </div><!-- entry-content -->
+                        </div>
+                    </div><!-- col-6 -->
+
+                    <div class="col-12 col-md-6 single-blog-content">
+                        <div class="blog-content">
+                            <figure class="featured-image">
+                                <a href="#"> <img src="images/blog-image-5.jpg" alt="fesival+celebration"> </a>
+                            </figure><!-- featured-image -->
+
+                            <div class="box-link-date">
+                                <a href="">TECH CHEF</a>
+                            </div><!-- box-link-date -->
+
+                            <div class="entry-content">
+                                
+
+                                <div class="entry-description">
+                                    <p><h2><u><i>SKILLS REQUIRED</i></u></h2>Basic programming knowledge; not restricted to any particular language.<h2><u><i>General Rules</h2></u></i><ol><li>This is a time-based event.</li><li>This event will be will be divided into 2 parts:Resource/Information gathering: 30 MinutesExecution: 40 Minutes</li><li>The event will be of 70 minutes excluding break of 1 hour.</li><li>One team can have a maximum of 2 members.</li><li>Use of pen drives and other storage devices will not be allowed.</li><li>Using smartphones and Internet will be allowed only for the first part of the event and will be prohibited during the 2nd part of the event.</li><li>Not binding by the rules will result in immediate disqualification.</li><li>Decision taken by the judges will be final and Binding.</li></ol></p>
+                                </div><!-- entry-description -->
+								
+								<div class="entry-header">
+                                  <h2>Coordinators</h2>
+                                </div><!-- entry-header -->
+
+                                <div class="entry-meta">
+                                    <span class="author-name"><a>Name1</a></span>
+                                    <span class="space">|</span>
+                                    <span class="comments-count"><a>Name2</a></span>
+                                </div><!-- entry-meta -->
+                            </div><!-- entry-content -->
+                        </div>
+                    </div><!-- col-6 -->
+
+                    <div class="col-12 col-md-6 single-blog-content">
+                        <div class="blog-content">
+                            <figure class="featured-image">
+                                <a href="#"> <img src="images/blog-image-6.jpg" alt="fesival+celebration"> </a>
+                            </figure><!-- featured-image -->
+
+                            <div class="box-link-date">
+                                <a href="">TAP-APP</a>
+                            </div><!-- box-link-date -->
+
+                            <div class="entry-content">
+                                
+
+                                <div class="entry-description">
+                                    <p><h2><u><i>SKILLS REQUIRED</i></u></h2>Basic programming knowledge; not restricted to any particular language.<h2><u><i>General Rules</h2></u></i><br><ol><li>Two Participants per team are allowed.</li><li>On the spot registration for the event.</li><li>Participants will be allowed to use the given software only i.e. Android studio.</li><li>In total 45 minutes will be given for designing the app.</li><li>Out of 5 questions student will get one question randomly.</li><li>There will be no change in the question once it has been allotted.</li><li>The time will not be extended in any case.</li><li>Participant cannot quit the event in between after registration.</li><li>The participants have to bring their phone's data cable</li><li>The decision of the coordinators will be final and binding.</li></p>
+                                </div><!-- entry-description -->
+								
+								<div class="entry-header">
+                                  <h2>Coordinators</h2>
+                                </div><!-- entry-header -->
+
+                                <div class="entry-meta">
+                                    <span class="author-name"><a>Name1</a></span>
+                                    <span class="space">|</span>
+                                    <span class="comments-count"><a>Name2</a></span>
+                                </div><!-- entry-meta -->
+                            </div><!-- entry-content -->
+                        </div>
+                    </div><!-- col-6 -->
+
+
+                    
+
+                    <div class="col-12 load-more flex justify-content-center">
+                        <input type="submit" name="" value="Load More" class="btn">
+                    </div>
+                </div><!-- blog-list-page -->
+            </div><!-- last-news -->
+        </div><!-- container -->
+    </div><!-- main-content -->
+
+    <footer class="site-footer">
+        <div class="footer-cover-title flex justify-content-center align-items-center">
+            <h2>CYNET 2019</h2>
+        </div><!-- .site-footer -->
+
+        <div class="footer-content-wrapper">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="entry-title">
+                            <a href="#">CYNET 2019</a>
+                        </div><!-- entry-title -->
+
+                        <div class="entry-mail">
+                            <a href="#">SAYHELLO@CYNET 2019.COM</a>
+                        </div><!-- .entry-mail -->
+
+                        <div class="copyright-info">
+                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                        </div><!-- copyright-info -->
+
+                        <div class="footer-social">
+                            <ul class="flex justify-content-center align-items-center">
+                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
+                                <li><a href="#"><i class="fab fa-behance"></i></a></li>
+                                <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                            </ul>
+                        </div><!-- footer-social -->
+                    </div><!-- col -->
+                </div><!-- row -->
+            </div><!-- container -->
+        </div><!-- footer-content-wrapper -->
+    </footer><!-- site-footer -->
